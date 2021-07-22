@@ -46,7 +46,7 @@
 	</distributionManagement>
 	<scm>
 		<connection>scm:git:ssh:git@github.com:RohitBajwa/teaching-academy.git</connection>
-		<developerConnection>scm:git:origin</developerConnection>
+		<developerConnection>ssh:git@github.com:RohitBajwa/teaching-academy.git</developerConnection>
 		<url>scm:git:ssh:git@github.com:RohitBajwa/teaching-academy.git</url>
 	  <tag>v3.0.0-RELEASE</tag>
   </scm>
