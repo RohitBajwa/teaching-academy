@@ -47,9 +47,9 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<connection>SCM:git@github.com:RohitBajwa/teaching-academy.git</connection>
-		<developerConnection>SCM:git@github.com:RohitBajwa/teaching-academy.git</developerConnection>
-		<url>SCM:git@github.com:RohitBajwa/teaching-academy.git</url>
+		<connection>scm:git:ssh:git@github.com:RohitBajwa/teaching-academy.git</connection>
+		<developerConnection>scm:git:ssh:git@github.com:RohitBajwa/teaching-academy.git</developerConnection>
+		<url>scm:git:ssh:git@github.com:RohitBajwa/teaching-academy.git</url>
 	</scm>
 	<modules>
 		<module>academy-utils</module>
